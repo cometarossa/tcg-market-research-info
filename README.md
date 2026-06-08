@@ -13,4 +13,4 @@ is not publicly accessible.
 
 ## Published URL
 
-https://EmilianoMartina.github.io/tcg-market-research-info/
+https://cometarossa.github.io/tcg-market-research-info/
